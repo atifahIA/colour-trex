@@ -1,2 +1,1 @@
-# colour-trex
-an amazing game
+# C19-TA2
